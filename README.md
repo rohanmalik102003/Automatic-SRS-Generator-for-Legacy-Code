@@ -10,7 +10,7 @@ cd your-repo
 pip install -r requirements.txt
 
 3️⃣ Download the Model (Llama-3.2-3B-Instruct)
-git clone https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-bnb-4bit models/Llama-3.2-3B-Instruct-bnb-4bit
+git clone https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-bnb-4bit
 📌 Ensure the model is inside models/ before running the application.
 
 Usage
